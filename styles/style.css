@@ -1,0 +1,14 @@
+/* "box sizing" property set to "border-box" in Bootstrap to ensure the width
+and height remains as defined in the element, without being affected by
+the border and padding */
+
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.nav {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
